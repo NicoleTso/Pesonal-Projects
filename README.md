@@ -1,2 +1,2 @@
-# Pesonal-Projects
-Personal projects that i will be working on for extra practice.
+# My greek recipes
+Personal project that i am  working on for extra practice.
