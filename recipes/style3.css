@@ -1,3 +1,9 @@
+
+ul,ol{
+display: block;
+
+}
+
 body {
 
     color:#2C74B3;
